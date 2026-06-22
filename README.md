@@ -162,6 +162,11 @@ This repository includes:
 - Loom walkthrough
 - AI-debugging screen recording
 
+## Loom Videos
+
+- [Walkthrough of the overall approach](https://www.loom.com/share/a9c907b98fc647c18a040ce5c6bfbecb)
+- [Prompting AI to debug and improve bot](https://www.loom.com/share/7516ad6dc11b4dd8a7e73275f697e5ff)
+
 ## Notes
 
 The bot only calls the Pretty Good AI test number.
