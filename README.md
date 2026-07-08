@@ -1,4 +1,4 @@
-# Pretty Good AI Voice-Agent Tester
+# LLM-Powered Agentic Voice Workflow
 
 Python voice bot for testing the Pretty Good AI healthcare voice agent. The bot places outbound calls, simulates realistic patient conversations, records conversations, transcribes them, and documents bugs found during testing.
 
