@@ -1,6 +1,6 @@
-# LLM-Powered Agentic Voice Workflow
+# real-time-llm-voice-inference
 
-Python voice bot for testing the Pretty Good AI healthcare voice agent. The bot places outbound calls, simulates realistic patient conversations, records conversations, transcribes them, and documents bugs found during testing.
+A latency-sensitive conversational voice system built with FastAPI, Twilio Media Streams, WebSockets, and the OpenAI Realtime API. The system streams live call audio bidirectionally, manages conversation sessions, and evaluates reliability across healthcare-oriented interaction scenarios.
 
 ## Setup
 
