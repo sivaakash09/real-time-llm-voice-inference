@@ -2,4 +2,4 @@
 venv/
 __pycache__/
 *.pyc
-.DS_Storeitr.txt
+.DS_Store
